@@ -27,10 +27,17 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
 - **REST API**
 - **Material 3**
 - **Gradle**
+## 📱 App Preview
+ <p align="center">
+  <img src="sky1.png" width="250"/>
+  <img src="sky2.png" width="250"/>
+  <img src="sky3.png" width="250"/>
+</p>
 
 ### 🎥 Demo Video
 
 [▶️ Watch Skyline Weather Demo](./Skyline-Weather-Demo.mp4)
+
 
 ## 🏗️ Project Structure
 

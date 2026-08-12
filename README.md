@@ -28,10 +28,11 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
 - **Material 3**
 - **Gradle**
 ## 📱 App Preview
+
  <p align="center">
-  <img src="sky1.png" width="250"/>
-  <img src="sky2.png" width="250"/>
-  <img src="sky3.png" width="250"/>
+  <img src="SKY1(2).png" width="250"/>
+  <img src="SKY2(2).png" width="250"/>
+  <img src="SKY3(2).png" width="250"/>
 </p>
 
 ### 🎥 Demo Video

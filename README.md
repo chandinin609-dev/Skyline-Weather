@@ -30,9 +30,9 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
 ## 📱 App Preview
 
  <p align="center">
-  <img src="./SKY1(2).png" width="250"/>
-  <img src="./SKY2(2).png" width="250"/>
-  <img src="./SKY3(2).png" width="250"/>
+  <img src="./skyline-main.png" width="250">
+  <img src="./skyline-details.png" width="250">
+  <img src="./skyline-forecast.png" width="250">
 </p>
 
 ### 🎥 Demo Video

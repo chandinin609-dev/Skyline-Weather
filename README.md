@@ -28,9 +28,9 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
 - **Material 3**
 - **Gradle**
 
-## 📱 App Preview
+### 🎥 Demo Video
 
-_Add screenshots or a demo video here._
+[▶️ Watch Skyline Weather Demo](./Skyline-Weather-Demo.mp4)
 
 ## 🏗️ Project Structure
 

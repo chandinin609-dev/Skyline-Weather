@@ -2,24 +2,13 @@
 *.iml
 .idea/
 .gradle/
-
-# Local configuration
 local.properties
-
-# Build files
 build/
 app/build/
-
-# Captures
 captures/
-
-# Native build
 .externalNativeBuild/
 .cxx/
-
-# Kotlin
 .kotlin/
-
 # OS files
 .DS_Store
 Thumbs.db

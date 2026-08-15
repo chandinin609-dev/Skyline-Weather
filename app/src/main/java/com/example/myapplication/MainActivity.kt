@@ -483,7 +483,6 @@ fun WeatherScreen(
             }
         )
     }
-
     ModalNavigationDrawer(
         drawerState = drawerState,
         drawerContent = {

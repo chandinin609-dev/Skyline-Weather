@@ -27,6 +27,7 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
 - **REST API**
 - **Material 3**
 - **Gradle**
+
 ## 📱 App Preview
 
  <p align="center">

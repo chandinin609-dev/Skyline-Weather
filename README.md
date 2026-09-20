@@ -1,4 +1,3 @@
-
 # 🌤️ Skyline Weather
 
 A modern Android weather application built with **Kotlin** and **Jetpack Compose**, designed to provide useful weather information through a clean and simple interface.

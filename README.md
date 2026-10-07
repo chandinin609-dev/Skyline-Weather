@@ -36,9 +36,12 @@ A modern Android weather application built with **Kotlin** and **Jetpack Compose
   <img src="./skyline-forecast.png" width="250">
 </p>
 
+
 ### 🎥 Demo Video
 
+
 [▶️ Watch Skyline Weather Demo](./Skyline-Weather-Demo.mp4)
+
 
 ## 🏗️ Project Structure
 
